@@ -14,7 +14,7 @@ Python: SQLAlchemy, Pandas and Matplotlib
 ## Visualization ##
 
   ![precipitation](Images/precipitation.png)<br>
-  ![station-histogram](Images/frequency.png)<br>
+  ![frequency](Images/frequency.png)<br>
 
 
 ### Flask Routes
