@@ -13,9 +13,12 @@ Python: SQLAlchemy, Pandas and Matplotlib
 
 ## Visualization ##
 
-  ![precipitation](Images/precipitation.png)<br>
-  ![frequency](Images/frequency.png)<br>
-
+<p align="center">
+  <img src="https://github.com/alexhyasui1/sqlalchemy-challenge/blob/main/Images/precipitation.png" height="75%" width="75%">
+</p>
+<p align="center">
+  <img src="https://github.com/alexhyasui1/sqlalchemy-challenge/blob/main/Images/frequency.png" height="75%" width="75%">
+</p>
 
 ### Flask Routes
 
