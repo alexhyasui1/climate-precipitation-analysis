@@ -1,4 +1,4 @@
-# SQLAlchemy -challenge
+# Climate and Precipitation Analysis
 
 ## Summary
 This project is designed to explore and analyze data of climate database by using SQLAlchemy ORM queries, and Pandas and Matplotlib in Python.
