@@ -12,10 +12,12 @@ Python: SQLAlchemy, Pandas and Matplotlib
 
 
 ## Visualization ##
-
+Precipitation Analysis 
 <p align="center">
   <img src="https://github.com/alexhyasui1/sqlalchemy-challenge/blob/main/Images/precipitation.png" height="75%" width="75%">
 </p>
+
+Station Analysis of temperature observation data for the last 12 months
 <p align="center">
   <img src="https://github.com/alexhyasui1/sqlalchemy-challenge/blob/main/Images/frequency.png" height="75%" width="75%">
 </p>
